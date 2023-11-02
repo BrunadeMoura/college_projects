@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(253, 194, 105);
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    color: darkslategray;
+}
+
+.textBody {
+    color: purple;
+}
+
+.seondTextBody {
+    color:brown;
+}
